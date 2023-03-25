@@ -34,7 +34,7 @@
 ## larger result buttons
 larger results will be better for reading.
 
-Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rajam0723/2023newbot)
+
 
 at now:
 ![139601786-7af37bab-549d-4f96-a65f-96e2d09b5ce0](https://user-images.githubusercontent.com/77600757/143565765-cced52c4-45f6-40e2-bfbf-2e2efd6f811f.png)
@@ -66,10 +66,10 @@ You can deploy this bot anywhere.
 </a>
 
 <details><summary>Deploy to Heroku</summary>
-<p>
-<br>
-<a href="https://telegram.dog/XTZ_HerokuBot?start=am9zcHJvamVjdHMvdGdtb3ZpZWJvdCBtYXN0ZXI">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+
+
+
+
 
 <a href="https://youtu.be/DFJxT7nUh10"><img src="https://img.shields.io/badge/How%20to%20Deploy%20on%20Heroku-blue.svg?logo=Youtube"></a>
 <a href="https://youtu.be/DFJxT7nUh10"><img src="https://img.shields.io/youtube/views/DFJxT7nUh10?style=social">
